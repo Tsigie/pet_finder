@@ -1,0 +1,22 @@
+{
+  "name": "pet_finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tsigie/pet_finder.git"
+  },
+  "keywords": [
+    "Kimpa1213"
+  ],
+  "author": "Tsigie Kumssa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tsigie/pet_finder/issues"
+  },
+  "homepage": "https://github.com/Tsigie/pet_finder#readme"
+}
